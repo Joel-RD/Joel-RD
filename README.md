@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/eudy-joel-reyes-b38534347/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=79c0ff&labelColor=0d1117&color=30363d" alt="LinkedIn" /></a>
 <a href="https://x.com/JoelEudyRD"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3&labelColor=0d1117&color=30363d" alt="X" /></a>
-<a href="https://joel-rd.github.io/eudy-dev/"><img src="https://img.shields.io/badge/Portafolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3fb950&labelColor=0d1117&color=30363d" alt="Portafolio" /></a>
+<a href="https://erdl.my"><img src="https://img.shields.io/badge/ERDL-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3fb950&labelColor=0d1117&color=30363d" alt="ERDL · Acortador de URLs" /></a>
 
 <br/><br/>
 
@@ -125,10 +125,10 @@ Automatización de publicaciones en LinkedIn.
 <div align="center">
 
 <a href="https://github.com/Joel-RD">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joel-RD&show_icons=true&bg_color=0d1117&title_color=3fb950&icon_color=79c0ff&text_color=e6edf3&hide_border=true&count_private=true" width="48%" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joel-RD&show_icons=true&bg_color=0d1117&title_color=3fb950&icon_color=79c0ff&text_color=e6edf3&hide_border=true&count_private=true" width="48%" loading="lazy" alt="Estadísticas de GitHub" />
 </a>
 <a href="https://github.com/Joel-RD?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-RD&layout=compact&bg_color=0d1117&title_color=3fb950&text_color=e6edf3&hide_border=true&langs_count=6" width="48%" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-RD&layout=compact&bg_color=0d1117&title_color=3fb950&text_color=e6edf3&hide_border=true&langs_count=6" width="48%" loading="lazy" alt="Lenguajes más usados" />
 </a>
 
 <br/>
@@ -137,7 +137,7 @@ Automatización de publicaciones en LinkedIn.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joel-RD&bg_color=0d1117&color=79c0ff&line=3fb950&point=e6edf3&area=true&area_color=3fb950&hide_border=true" width="97%" alt="Gráfico de actividad" />
+<img src="https://github-profile-trophy.vercel.app/?username=Joel-RD&theme=onedark&no-bg=true&no-frame=true&column=6&row=1&margin-w=8" width="100%" loading="lazy" alt="Trofeos de GitHub" />
 
 </div>
 
@@ -146,6 +146,10 @@ Automatización de publicaciones en LinkedIn.
 ## 🐍 `snake --eat-contributions`
 
 <div align="center">
+
+[![Generate Snake](https://github.com/Joel-RD/Joel-RD/actions/workflows/snake.yml/badge.svg)](https://github.com/Joel-RD/Joel-RD/actions/workflows/snake.yml)
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joel-RD/Joel-RD/output/github-contribution-grid-snake-dark.svg" />

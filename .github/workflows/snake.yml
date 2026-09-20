@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -21,9 +24,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - name: Publicar en la rama output
-        uses: Platane/snk/action/push@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: output
           build_dir: dist
-          branch_name: output
-          commit_message: "🐍 chore: actualizar snake grid"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
