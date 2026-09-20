@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generar la serpiente de contribuciones (SVG)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Joel-RD
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Publicar en la rama output
+        uses: Platane/snk/action/push@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          build_dir: dist
+          branch_name: output
+          commit_message: "🐍 chore: actualizar snake grid"
