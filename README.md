@@ -9,11 +9,8 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/eudy-joel-reyes-b38534347/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=79c0ff&labelColor=0d1117&color=30363d" alt="LinkedIn" /></a>
-<a href="https://x.com/JoelEudyRD"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3&labelColor=0d1117&color=30363d" alt="X" /></a>
-<a href="https://erdl.my"><img src="https://img.shields.io/badge/ERDL-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3fb950&labelColor=0d1117&color=30363d" alt="ERDL · Acortador de URLs" /></a>
-
+<a href="https://x.com/JoelEudyRD"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3&labelColor=0d1117&color=30363d" alt="" /></a>
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=Joel-RD&label=Visitas&color=3fb950&style=flat-square&labelColor=0d1117" alt="Contador de visitas" />
 <img src="https://img.shields.io/github/followers/Joel-RD?label=Seguidores&style=flat-square&labelColor=0d1117&color=79c0ff" alt="Seguidores" />
 
